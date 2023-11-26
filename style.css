@@ -1,0 +1,57 @@
+
+.navbar{
+	height: 100px;
+	background-color:rgba(50, 250, 80, 0.8);
+	display: flex;
+}
+.navbar img{
+	height: 100px;
+}
+.navbar .navbar2 a{
+	line-height: 100px;
+	font-size: 20px;
+	padding: 20px;
+	padding-left: 150px;
+	padding-top: 100px;
+}
+.input1 .input{
+	margin-top: 60px;
+	margin-left: 280px;
+}
+.input1 button{
+	background-color: rgba(255, 0, 0, 0.4);
+}
+.navbar3{
+	height: 500px;
+	background-color:skyblue;
+}
+.navbar4{
+	height: 80px;
+	background-color:pink;
+}
+.navbar3 .child1{
+	margin-left: 80px;
+	display: inline-block;
+	height: 300px;
+	width: 400;
+	background-color:rgba(0, 0, 150, 0.5);
+}
+.navbar3 .child2{
+	margin-left: 80px;
+	display: inline-block;
+	height: 300px;
+	width: 400px;
+	background-color:rgba(255, 0, 0, 0.3);
+}
+.navbar3 .child3{
+	margin-left: 80px;
+	display: inline-block;
+	height: 300px;
+	width: 400px;
+	background-color:rgba(100, 200, 120, 0.4);
+}
+.navbar4 .child4{
+	color: blue;
+	padding-top: 50px;
+	padding-left: 1100px;
+}
