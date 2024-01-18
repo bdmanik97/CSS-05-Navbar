@@ -4,7 +4,7 @@
 	background-color:rgba(50, 250, 80, 0.8);
 	display: flex;
 }
-.navbar img{
+.navbar .img{
 	height: 100px;
 }
 .navbar .navbar2 a{
